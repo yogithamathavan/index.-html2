@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>PHP</title>
+</head>
+<body>
+<center>
+<h1>php history</h1>
+</center>
+<p>In <mark>1995</mark> <I>Rasmus lerdorf</I> creates the first version of <b>php</b></p>
+<p>In <mark>1998</mark> a significant rewrite by <I>zeer suraski</I></p>
+<h2>Dynamic web application</h2>
+<p>The languages ability to work with <em>various web servers</em></p>
+</body>
+</html>
